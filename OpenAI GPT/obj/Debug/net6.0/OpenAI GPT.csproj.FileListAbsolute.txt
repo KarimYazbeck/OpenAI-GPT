@@ -1,0 +1,26 @@
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\bin\Debug\net6.0\appsettings.json
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\bin\Debug\net6.0\OpenAI GPT.staticwebassets.runtime.json
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\bin\Debug\net6.0\OpenAI GPT.exe
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\bin\Debug\net6.0\OpenAI GPT.deps.json
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\bin\Debug\net6.0\OpenAI GPT.runtimeconfig.json
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\bin\Debug\net6.0\OpenAI GPT.dll
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\bin\Debug\net6.0\OpenAI GPT.pdb
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\OpenAI GPT.csproj.AssemblyReference.cache
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\OpenAI GPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\OpenAI GPT.AssemblyInfoInputs.cache
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\OpenAI GPT.AssemblyInfo.cs
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\OpenAI GPT.csproj.CoreCompileInputs.cache
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\OpenAI GPT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\OpenAI GPT.RazorAssemblyInfo.cache
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\OpenAI GPT.RazorAssemblyInfo.cs
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\scopedcss\bundle\OpenAI GPT.styles.css
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\scopedcss\projectbundle\OpenAI GPT.bundle.scp.css
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\OpenAI GPT.dll
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\refint\OpenAI GPT.dll
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\OpenAI GPT.pdb
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\OpenAI GPT.genruntimeconfig.cache
+C:\Users\karim\source\repos\OpenAI GPT\OpenAI GPT\obj\Debug\net6.0\ref\OpenAI GPT.dll
